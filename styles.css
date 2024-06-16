@@ -49,14 +49,7 @@ h2 {
     margin-top: 0;
 }
 
-/* #about{
-    background: #fff;
-    margin: 2rem 0;
-    padding: 2rem;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 
-} */
 #about, #projects , #skills{
     background: #fff;
     margin: 2rem 0;
@@ -76,34 +69,9 @@ h2 {
     padding: 50px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    width: 50%;
+    width: 100%;
 }
 
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-form label {
-    margin-top: 1rem;
-}
-
-form input, form textarea {
-    padding: 0.5rem;
-    margin-top: 0.5rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-form button {
-    margin-top: 1rem;
-    padding: 0.7rem;
-    border: none;
-    border-radius: 5px;
-    background: #333;
-    color: #fff;
-    cursor: pointer;
-}
 
 footer {
     background: #333;
